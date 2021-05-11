@@ -3,7 +3,7 @@
 **Datasets:**
 1. Products catalog: contains all the available information regarding all the products sold by the client and competitors.
 2. Stores catalog: contains all the information available about the stores and distributors that sell the products.
-3. Sellout sales files: contains history of sales and sellout price (from retailer to final consumer) for each product and store, for two different suppliers.
+3. Sellout sales files: contains the sales history and sellout price (from retailer to final consumer) for each product and store, for two different suppliers.
 4. Sellin sale file: contains the sales history and sellin price (from manufacturer to retailer) for each product and store.
 
 SellOut is the information of the sales processes that occur from the distributors of the client towards final customers (i.e. when someone buys a product from the client in a
