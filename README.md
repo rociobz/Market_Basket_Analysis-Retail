@@ -10,6 +10,7 @@ SellOut is the information of the sales processes that occur from the distributo
 supermarket). SellIn is the information of the sales processes of the client towards its distributors (that is, when a supermarket buys a batch of products from the client in order to sell them to final customers).
 
 **Objective:** 
+
 The objective is to clean and analyse the data, and generate a data structure that is easily searchable to be able to generate models afterwards. An example of a query from this data structure would be: "I need all the sellout and sellin records between the dates X and Y for products A, B, C and D in this specific list of stores: T1, T2, T3, T4, T5 and T6", where X, Y, A, B, C, D, T1, T2, T3, T4, T5, and T6 are variables. This requires that the data is not only clean, but also consistent and perfectly organized.
 
 Finally, once the data structure has been generated for query, an initial data exploration could be included to provide a first insight into the dataset.
